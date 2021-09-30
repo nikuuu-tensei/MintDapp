@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/CodenameZeroTest.github.io/MintDapp/static/css/main.affb1b75.chunk.css",
+    "main.js": "/CodenameZeroTest.github.io/MintDapp/static/js/main.85e8a1c4.chunk.js",
+    "main.js.map": "/CodenameZeroTest.github.io/MintDapp/static/js/main.85e8a1c4.chunk.js.map",
+    "runtime-main.js": "/CodenameZeroTest.github.io/MintDapp/static/js/runtime-main.bcaec7e5.js",
+    "runtime-main.js.map": "/CodenameZeroTest.github.io/MintDapp/static/js/runtime-main.bcaec7e5.js.map",
+    "static/js/2.bcca3f27.chunk.js": "/CodenameZeroTest.github.io/MintDapp/static/js/2.bcca3f27.chunk.js",
+    "static/js/2.bcca3f27.chunk.js.map": "/CodenameZeroTest.github.io/MintDapp/static/js/2.bcca3f27.chunk.js.map",
+    "static/js/3.a64233a7.chunk.js": "/CodenameZeroTest.github.io/MintDapp/static/js/3.a64233a7.chunk.js",
+    "static/js/3.a64233a7.chunk.js.map": "/CodenameZeroTest.github.io/MintDapp/static/js/3.a64233a7.chunk.js.map",
+    "index.html": "/CodenameZeroTest.github.io/MintDapp/index.html",
+    "static/css/main.affb1b75.chunk.css.map": "/CodenameZeroTest.github.io/MintDapp/static/css/main.affb1b75.chunk.css.map",
+    "static/js/2.bcca3f27.chunk.js.LICENSE.txt": "/CodenameZeroTest.github.io/MintDapp/static/js/2.bcca3f27.chunk.js.LICENSE.txt",
+    "static/media/1.75f03515.png": "/CodenameZeroTest.github.io/MintDapp/static/media/1.75f03515.png",
+    "static/media/reset.css": "/CodenameZeroTest.github.io/MintDapp/static/media/PressStart2P-Regular.f2341734.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcaec7e5.js",
+    "static/js/2.bcca3f27.chunk.js",
+    "static/css/main.affb1b75.chunk.css",
+    "static/js/main.85e8a1c4.chunk.js"
+  ]
+}
